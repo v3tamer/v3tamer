@@ -61,6 +61,14 @@ Both issued by the **Faculty of Tourism – University of Haifa**, combining my 
 - **Exploring:** Tailwind CSS, Framer Motion, AI APIs
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=v3tamer&show_icons=true&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3tamer&layout=compact&theme=react&hide_border=true" />
+</p>
+---
 
 ## 🌐 Languages
 
@@ -78,6 +86,25 @@ Both issued by the **Faculty of Tourism – University of Haifa**, combining my 
 - 🧼 Follow clean code and UI/UX design best practices  
 - 🔄 Keep learning: AI, Web3, Next.js, and DevOps tools
 
+---
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:v3tamer@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-v3tamer@gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/tamer-a-sneineh-06b3b930b/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="tel:+972504692550">
+    <img alt="Phone" src="https://img.shields.io/badge/Phone-+972504692550-brightgreen?style=flat-square&logo=whatsapp" />
+  </a>
+  <a href="https://wa.me/972504692550" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green?style=flat-square&logo=whatsapp" />
+  </a>
+</p>
+
+📍 **Based in:** Jerusalem, Israel
 ---
 
 > 💬 *“Code is like a tour — it takes you places. I just happen to guide both.”*

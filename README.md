@@ -50,12 +50,25 @@ I’m blending my tourism background with my passion for technology to build mod
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
-- 📍 **Jerusalem, Israel**
-- 📧 Email: [v3tamer@gmail.com](mailto:v3tamer@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/tamer-a-sneineh-06b3b930b](https://www.linkedin.com/in/tamer-a-sneineh-06b3b930b/)
-- 📞 Phone / WhatsApp: [+972 50-469-2550](tel:+972504692550)
+<p align="left">
+  <a href="mailto:v3tamer@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-v3tamer@gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/tamer-a-sneineh-06b3b930b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="tel:+972504692550">
+    <img alt="Phone" src="https://img.shields.io/badge/Phone-+972504692550-brightgreen?style=flat-square&logo=whatsapp" />
+  </a>
+  <a href="https://wa.me/972504692550" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green?style=flat-square&logo=whatsapp" />
+  </a>
+</p>
+
+- 📍 **Location:** Jerusalem, Israel
+
 
 
 ---

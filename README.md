@@ -8,9 +8,15 @@
 
 ## 👨‍💻 About Me
 
-I’m **Tamer Abu Sneineh**, a dedicated Full Stack Web Developer in training at **John Bryce College (Jerusalem)** and a certified Tour Guide from the **Faculty of Tourism – University of Haifa**.
+I’m **Tamer Abu Sneineh**, a passionate and multidisciplinary professional from Jerusalem, currently training as a **Full Stack Web Developer** at **John Bryce College**.  
+In parallel, I’ve completed the **IBM Full Stack Software Developer Professional Certificate** via **Coursera**, where I mastered modern tools and practices used by real-world developers.
 
-I’m blending my tourism background with my passion for technology to build modern web applications that are both professional and deeply impactful.
+In addition to my tech journey, I hold a **Certified Tour Guide License** and a **Travel Agent & Tour Operator Certificate** from the **Faculty of Tourism – University of Haifa**.  
+These qualifications allow me to bridge the gap between **technology and tourism**, building smart and innovative web solutions tailored to the travel industry and beyond.
+
+With a strong eye for detail and a deep love for design, I strive to create impactful, intelligent, and elegant digital experiences that combine functionality with beauty.
+
+
 
 ### 💡 Currently Working On:
 

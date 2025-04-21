@@ -55,6 +55,8 @@ I’m blending my tourism background with my passion for technology to build mod
 - 📍 **Jerusalem, Israel**
 - 📧 Email: [v3tamer@gmail.com](mailto:v3tamer@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/tamer-a-sneineh-06b3b930b](https://www.linkedin.com/in/tamer-a-sneineh-06b3b930b/)
+- 📞 Phone / WhatsApp: [+972 50-469-2550](tel:+972504692550)
+
 
 ---
 

@@ -27,7 +27,11 @@ Both issued by the **Faculty of Tourism – University of Haifa**, combining my 
   <a href="https://www.credly.com/go/9IvkQTfC" target="_blank">
     <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/software-engineering-essentials.png" alt="Software Engineering" height="120"/>
   </a>
+  <a href="https://www.credly.com/go/Z3tCZwl2" target="_blank">
+    <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/git-and-github-essentials.png" alt="Git & GitHub Essentials" height="120"/>
+  </a>
 </p>
+
 
 - 🟦 [Introduction to Cloud Computing (IBM)](https://coursera.org/verify/CQZ4HB0H0KCG)  
 - 🟦 [Introduction to HTML, CSS & JavaScript (IBM)](https://coursera.org/verify/66SYH572XZEX)  

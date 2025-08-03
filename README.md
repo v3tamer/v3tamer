@@ -1,66 +1,94 @@
-## 👨‍💻 About Me
-
-I’m **Tamer Abu Sneineh**, a passionate and multidisciplinary professional based in **Jerusalem**.
-
-💻 I’m currently studying **Full Stack Web Development** at **John Bryce College**, gaining hands-on experience with modern frontend and backend technologies.
-
-🎓 I’ve also completed several industry-leading certifications including the **IBM Full Stack Software Developer Professional Certificate**, **Google Cloud AI Foundations**, and **Cybersecurity Essentials** via Coursera.
-
-🎖️ On top of my tech journey, I hold:
-- 🧭 A **Certified Tour Guide License**  
-- 🧳 A **Travel Agent & Tour Operator Certificate**  
-Both issued by the **Faculty of Tourism – University of Haifa**, combining my passion for travel and technology into a unique, impactful career path.
-
-💎 With a strong eye for detail and clean design, I build smart, scalable, and elegant web experiences that bridge functionality with creativity.
+<!-- Banner/Intro -->
+<h2 align="center">👋 Hi, I’m <b>Tamer Abu Sneineh</b></h2>
+<p align="center">
+  <b>Full Stack Web Developer | IBM Certified | Tech-savvy Tour Guide</b><br/>
+  <sub>Building the future of travel and web apps from Jerusalem</sub>
+</p>
 
 ---
 
-## 🏅 Certifications Showcase
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://coursera.org/verify/CQZ4HB0H0KCG" target="_blank">
-    <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/introduction-to-cloud-computing.png" alt="Cloud Computing" height="120"/>
-  </a>
-  <a href="https://coursera.org/verify/66SYH572XZEX" target="_blank">
-    <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/introduction-to-html-css-javascript.png" alt="HTML CSS JS" height="120"/>
-  </a>
-  <a href="https://www.credly.com/go/9IvkQTfC" target="_blank">
-    <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/software-engineering-essentials.png" alt="Software Engineering" height="120"/>
-  </a>
-  <a href="https://www.credly.com/go/Z3tCZwl2" target="_blank">
-    <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/git-and-github-essentials.png" alt="Git & GitHub Essentials" height="120"/>
-  </a>
-</p>
+- 🎓 Currently studying **Full Stack Web Development** at **John Bryce College**
+- 🎖️ IBM Certified: [Front-End Development with React V2](https://www.credly.com/badges/5f09e05f-5b78-45c2-94c2-514e7d3a6bb6) (95% Distinction)
+- 💼 Certified Tour Guide & Travel Agent — Faculty of Tourism, University of Haifa
+- 💎 Focused on building elegant, scalable, and user-centric web apps
+- 🗺️ Merging tech & travel for a unique, impactful career
 
+---
 
-- 🟦 [Introduction to Cloud Computing (IBM)](https://coursera.org/verify/CQZ4HB0H0KCG)  
-- 🟦 [Introduction to HTML, CSS & JavaScript (IBM)](https://coursera.org/verify/66SYH572XZEX)  
-- 🟦 [Software Engineering Essentials (IBM)](https://www.credly.com/go/9IvkQTfC)  
-- 🟩 [Foundations of Cybersecurity (Google)](https://coursera.org/verify/P1N7AAOQ7T0T)  
-- 🤖 [Intro to Generative AI](https://coursera.org/verify/Q9D8AQ6FYKFW)  
-- 🤖 [Intro to Large Language Models](https://coursera.org/verify/YWFI1W4VAFNA)  
+## 🏅 Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/5f09e05f-5b78-45c2-94c2-514e7d3a6bb6" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/82b07c65-378e-4f11-bcb1-18b6e24c2459/image.png" alt="IBM React V2" width="90"/><br/>
+        <sub><b>IBM React V2</b></sub>
+      </a><br/><sub>🔗 Verified</sub>
+    </td>
+    <td align="center">
+      <a href="https://coursera.org/verify/CQZ4HB0H0KCG" target="_blank">
+        <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/introduction-to-cloud-computing.png" alt="Cloud Computing" width="90"/><br/>
+        <sub>Cloud Computing</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/go/9IvkQTfC" target="_blank">
+        <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/software-engineering-essentials.png" alt="Software Engineering" width="90"/><br/>
+        <sub>Software Engineering</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://coursera.org/verify/66SYH572XZEX" target="_blank">
+        <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/introduction-to-html-css-javascript.png" alt="HTML CSS JS" width="90"/><br/>
+        <sub>HTML/CSS/JS</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/go/Z3tCZwl2" target="_blank">
+        <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/git-and-github-essentials.png" alt="Git & GitHub" width="90"/><br/>
+        <sub>Git & GitHub</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>🎖️ <b>All Certifications (Click to Expand)</b></summary>
+
+- 🟦 [Front-End Development with React V2 (IBM, 2025)](https://www.credly.com/badges/5f09e05f-5b78-45c2-94c2-514e7d3a6bb6)
+- 🟦 [Introduction to Cloud Computing (IBM)](https://coursera.org/verify/CQZ4HB0H0KCG)
+- 🟦 [Introduction to HTML, CSS & JavaScript (IBM)](https://coursera.org/verify/66SYH572XZEX)
+- 🟦 [Software Engineering Essentials (IBM)](https://www.credly.com/go/9IvkQTfC)
+- 🟩 [Foundations of Cybersecurity (Google)](https://coursera.org/verify/P1N7AAOQ7T0T)
+- 🤖 [Intro to Generative AI](https://coursera.org/verify/Q9D8AQ6FYKFW)
+- 🤖 [Intro to Large Language Models](https://coursera.org/verify/YWFI1W4VAFNA)
 - 🛠️ [Git and GitHub Essentials](https://www.credly.com/go/Z3tCZwl2)
+</details>
 
 ---
 
 ## 💡 Currently Working On
 
-- ⚙️ **AI-themed Personal Portfolio** with React, Tailwind, Framer Motion  
-- 🐦 **Canary Bird Judging App** following C.O.M./O.M.J. standards  
-- 🛒 **eCommerce Platform** with 3D visuals, smart CMS & multilingual support  
+- ⚙️ **AI-themed Personal Portfolio** — React, Tailwind, Framer Motion  
+- 🐦 **Canary Bird Judging App** — C.O.M./O.M.J. standards  
+- 🛒 **eCommerce Platform** — 3D visuals, smart CMS, multilingual  
 - 📚 Mastering JavaScript, TypeScript, React, Node.js, MongoDB
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, React, Vite  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git & GitHub, Netlify, Postman, VS Code  
-- **Exploring:** Tailwind CSS, Framer Motion, AI APIs
+| Frontend      | Backend         | Database       | Tools & DevOps           |
+|:--------------|:---------------|:---------------|:-------------------------|
+| HTML5, CSS3,  | Node.js,       | MongoDB,       | Git & GitHub, Netlify,   |
+| JavaScript,   | Express.js     | MySQL          | Postman, VS Code         |
+| Bootstrap,    |                |                | Tailwind, Framer Motion  |
+| React, Vite   |                |                | AI APIs                  |
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -68,25 +96,25 @@ Both issued by the **Faculty of Tourism – University of Haifa**, combining my 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3tamer&layout=compact&theme=react&hide_border=true" />
 </p>
+
 ---
 
 ## 🌐 Languages
 
-- 🇵🇸 Arabic (Native)  
-- 🇬🇧 English (Fluent)  
-- 🇮🇱 Hebrew (Fluent)  
+🇵🇸 Arabic (Native)  •  🇬🇧 English (Fluent)  •  🇮🇱 Hebrew (Fluent)
 
 ---
 
 ## 🎯 Personal Mission
 
-- 💡 Build modern, scalable, AI-integrated web solutions  
-- 🧳 Merge tourism knowledge with digital innovation  
-- 🌐 Launch SaaS platforms for travel and eCommerce  
-- 🧼 Follow clean code and UI/UX design best practices  
-- 🔄 Keep learning: AI, Web3, Next.js, and DevOps tools
+- Build modern, scalable, AI-integrated web solutions  
+- Merge tourism knowledge with digital innovation  
+- Launch SaaS platforms for travel and eCommerce  
+- Follow clean code and UI/UX best practices  
+- Keep learning: AI, Web3, Next.js, and DevOps
 
 ---
+
 ## 📫 Let's Connect
 
 <p align="left">
@@ -105,6 +133,7 @@ Both issued by the **Faculty of Tourism – University of Haifa**, combining my 
 </p>
 
 📍 **Based in:** Jerusalem, Israel
+
 ---
 
 > 💬 *“Code is like a tour — it takes you places. I just happen to guide both.”*

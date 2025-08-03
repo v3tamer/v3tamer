@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/front-end-development-with-react-v2.1.png" alt="IBM React V2" width="90"/><br/>
     <sub><b>IBM React V2</b></sub>
   </a><br/><sub>🔗 Verified</sub>
-</td>
+    </td>
 
     <td align="center">
       <a href="https://coursera.org/verify/CQZ4HB0H0KCG" target="_blank">

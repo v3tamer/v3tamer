@@ -23,7 +23,7 @@
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/5f09e05f-5b78-45c2-94c2-514e7d3a6bb6" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/82b07c65-378e-4f11-bcb1-18b6e24c2459/image.png" alt="IBM React V2" width="90"/><br/>
+        <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/front-end-development-with-react-v2.1.png" alt="IBM React V2" width="90"/><br/>
         <sub><b>IBM React V2</b></sub>
       </a><br/><sub>🔗 Verified</sub>
     </td>
@@ -53,6 +53,7 @@
     </td>
   </tr>
 </table>
+
 
 <details>
   <summary>🎖️ <b>All Certifications (Click to Expand)</b></summary>

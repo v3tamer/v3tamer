@@ -31,25 +31,25 @@
       <a href="https://coursera.org/verify/CQZ4HB0H0KCG" target="_blank">
         <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/introduction-to-cloud-computing.png" alt="Cloud Computing" width="90"/><br/>
         <sub>Cloud Computing</sub>
-      </a>
+      </a><br/><sub>🔗 Verified</sub>
     </td>
     <td align="center">
       <a href="https://www.credly.com/go/9IvkQTfC" target="_blank">
         <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/software-engineering-essentials.png" alt="Software Engineering" width="90"/><br/>
         <sub>Software Engineering</sub>
-      </a>
+      </a><br/><sub>🔗 Verified</sub>
     </td>
     <td align="center">
       <a href="https://coursera.org/verify/66SYH572XZEX" target="_blank">
         <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/introduction-to-html-css-javascript.png" alt="HTML CSS JS" width="90"/><br/>
         <sub>HTML/CSS/JS</sub>
-      </a>
+      </a><br/><sub>🔗 Verified</sub>
     </td>
     <td align="center">
       <a href="https://www.credly.com/go/Z3tCZwl2" target="_blank">
         <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/git-and-github-essentials.png" alt="Git & GitHub" width="90"/><br/>
         <sub>Git & GitHub</sub>
-      </a>
+      </a><br/><sub>🔗 Verified</sub>
     </td>
     <td align="center">
   <a href="https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737" target="_blank">

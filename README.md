@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hi, I’m <b>Tamer Abu Sneineh</b></h2>
 <p align="center">
   <b>Full Stack Web Developer | IBM Certified | Tech-savvy Tour Guide</b><br/>
-  <sub>Building the future of travel and web apps from Jerusalem</sub>
+  <sub>Building the future of travel, AI, and web apps from Jerusalem</sub>
 </p>
 
 ---
@@ -14,6 +14,7 @@
 - 🎖️ IBM Certified: [Python for Data Science and AI](https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737) (95.25% Distinction)
 - 💼 Certified Tour Guide & Travel Agent — Faculty of Tourism, University of Haifa
 - 💎 Focused on building elegant, scalable, and user-centric web apps
+- 🧠 Passionate about combining **AI, Data Science, and Full Stack Development** to deliver high-impact SaaS and Travel-Tech solutions
 - 🗺️ Merging tech & travel for a unique, impactful career
 
 ---
@@ -53,11 +54,11 @@
       </a><br/><sub>🔗 Verified</sub>
     </td>
     <td align="center">
-  <a href="https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737" target="_blank">
-    <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/python-for-data-science-and-ai.png" alt="Python for Data Science and AI" width="90"/><br/>
-    <sub><b>Python for Data Science & AI</b></sub>
-  </a><br/><sub>🔗 Verified</sub>
-</td>
+      <a href="https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737" target="_blank">
+        <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/python-for-data-science-and-ai.png" alt="Python for Data Science and AI" width="90"/><br/>
+        <sub><b>Python for Data Science & AI</b></sub>
+      </a><br/><sub>🔗 Verified</sub>
+    </td>
   </tr>
 </table>
 
@@ -76,6 +77,12 @@
 - 🛠️ [Git and GitHub Essentials](https://www.credly.com/go/Z3tCZwl2)
 </details>
 
+---
+
+## 🏆 Achievements
+- 🥇 Distinction in IBM React V2 (95%)
+- 🥇 Distinction in IBM Python for Data Science & AI (95.25%)
+- 🌍 Licensed Tour Guide – Ministry of Tourism, Israel
 
 ---
 
@@ -90,12 +97,9 @@
 
 ## 🛠️ Tech Stack
 
-| Frontend      | Backend         | Database       | Data Science / Tools     | DevOps & Others          |
-|:--------------|:---------------|:---------------|:-------------------------|:-------------------------|
-| HTML5, CSS3,  | Node.js,       | MongoDB,       | Python, Pandas, NumPy,   | Git & GitHub, Netlify,   |
-| JavaScript,   | Express.js     | MySQL          | Matplotlib, Jupyter Lab  | Postman, VS Code,        |
-| Bootstrap,    |                |                |                          | Tailwind, Framer Motion, |
-| React, Vite   |                |                |                          | AI APIs                  |
+| Frontend | Backend | Database | Data Science / Tools | DevOps & Others |
+|----------|---------|----------|----------------------|-----------------|
+| ⚛️ React, Vite, HTML5, CSS3, JS, Bootstrap | 🟩 Node.js, Express | 🍃 MongoDB, 🐬 MySQL | 🐍 Python, 📊 Pandas, 🔢 NumPy, 📈 Matplotlib, 📓 Jupyter Lab | 🔧 Git & GitHub, 🚀 Netlify, 🧪 Postman, 💻 VS Code, 🎨 Tailwind, 🎞️ Framer Motion, 🤖 AI APIs |
 
 ---
 

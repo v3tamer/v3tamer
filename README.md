@@ -11,6 +11,7 @@
 
 - 🎓 Currently studying **Full Stack Web Development** at **John Bryce College**
 - 🎖️ IBM Certified: [Front-End Development with React V2](https://www.credly.com/badges/5f09e05f-5b78-45c2-94c2-514e7d3a6bb6) (95% Distinction)
+- 🎖️ IBM Certified: [Python for Data Science and AI](https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737) (95.25% Distinction)
 - 💼 Certified Tour Guide & Travel Agent — Faculty of Tourism, University of Haifa
 - 💎 Focused on building elegant, scalable, and user-centric web apps
 - 🗺️ Merging tech & travel for a unique, impactful career
@@ -89,12 +90,12 @@
 
 ## 🛠️ Tech Stack
 
-| Frontend      | Backend         | Database       | Tools & DevOps           |
-|:--------------|:---------------|:---------------|:-------------------------|
-| HTML5, CSS3,  | Node.js,       | MongoDB,       | Git & GitHub, Netlify,   |
-| JavaScript,   | Express.js     | MySQL          | Postman, VS Code         |
-| Bootstrap,    |                |                | Tailwind, Framer Motion  |
-| React, Vite   |                |                | AI APIs                  |
+| Frontend      | Backend         | Database       | Data Science / Tools     | DevOps & Others          |
+|:--------------|:---------------|:---------------|:-------------------------|:-------------------------|
+| HTML5, CSS3,  | Node.js,       | MongoDB,       | Python, Pandas, NumPy,   | Git & GitHub, Netlify,   |
+| JavaScript,   | Express.js     | MySQL          | Matplotlib, Jupyter Lab  | Postman, VS Code,        |
+| Bootstrap,    |                |                |                          | Tailwind, Framer Motion, |
+| React, Vite   |                |                |                          | AI APIs                  |
 
 ---
 

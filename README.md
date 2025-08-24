@@ -52,11 +52,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/21c0c55f-07f6-4b5b-9a2c-2d4a98c6cbb0/image.png" alt="Python for Data Science and AI" width="90"/><br/>
-        <sub><b>Python for Data Science & AI</b></sub>
-      </a><br/><sub>🔗 Verified</sub>
-    </td>
+  <a href="https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737" target="_blank">
+    <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/python-for-data-science-and-ai.png" alt="Python for Data Science and AI" width="90"/><br/>
+    <sub><b>Python for Data Science & AI</b></sub>
+  </a><br/><sub>🔗 Verified</sub>
+</td>
   </tr>
 </table>
 

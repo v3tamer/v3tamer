@@ -51,6 +51,12 @@
         <sub>Git & GitHub</sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/21c0c55f-07f6-4b5b-9a2c-2d4a98c6cbb0/image.png" alt="Python for Data Science and AI" width="90"/><br/>
+        <sub><b>Python for Data Science & AI</b></sub>
+      </a><br/><sub>🔗 Verified</sub>
+    </td>
   </tr>
 </table>
 
@@ -62,11 +68,13 @@
 - 🟦 [Introduction to Cloud Computing (IBM)](https://coursera.org/verify/CQZ4HB0H0KCG)
 - 🟦 [Introduction to HTML, CSS & JavaScript (IBM)](https://coursera.org/verify/66SYH572XZEX)
 - 🟦 [Software Engineering Essentials (IBM)](https://www.credly.com/go/9IvkQTfC)
+- 🟦 [Python for Data Science and AI (IBM, 2025)](https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737)
 - 🟩 [Foundations of Cybersecurity (Google)](https://coursera.org/verify/P1N7AAOQ7T0T)
 - 🤖 [Intro to Generative AI](https://coursera.org/verify/Q9D8AQ6FYKFW)
 - 🤖 [Intro to Large Language Models](https://coursera.org/verify/YWFI1W4VAFNA)
 - 🛠️ [Git and GitHub Essentials](https://www.credly.com/go/Z3tCZwl2)
 </details>
+
 
 ---
 

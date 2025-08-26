@@ -60,9 +60,14 @@
         <sub><b>Python for Data Science & AI</b></sub>
       </a><br/><sub>🔗 Verified</sub>
     </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/3e9773b7-c5e6-44b1-956e-d836c2b2a0e5" target="_blank">
+        <img src="https://raw.githubusercontent.com/v3tamer/v3tamer/main/assets/badges/python-project-for-ai-and-application-development.png" alt="Python Project for AI and App Dev" width="90"/><br/>
+        <sub><b>Python Project for AI</b></sub>
+      </a><br/><sub>🔗 Verified</sub>
+    </td>
   </tr>
 </table>
-
 
 <details>
   <summary>🎖️ <b>All Certifications (Click to Expand)</b></summary>
@@ -72,6 +77,7 @@
 - 🟦 [Introduction to HTML, CSS & JavaScript (IBM)](https://coursera.org/verify/66SYH572XZEX)
 - 🟦 [Software Engineering Essentials (IBM)](https://www.credly.com/go/9IvkQTfC)
 - 🟦 [Python for Data Science and AI (IBM, 2025)](https://www.credly.com/badges/9537c127-daf5-4bc7-b7c4-19cc4018e737)
+- 🟦 [Python Project for AI and Application Development (IBM, 2025)](https://www.credly.com/badges/3e9773b7-c5e6-44b1-956e-d836c2b2a0e5)
 - 🟩 [Foundations of Cybersecurity (Google)](https://coursera.org/verify/P1N7AAOQ7T0T)
 - 🤖 [Intro to Generative AI](https://coursera.org/verify/Q9D8AQ6FYKFW)
 - 🤖 [Intro to Large Language Models](https://coursera.org/verify/YWFI1W4VAFNA)
@@ -83,6 +89,7 @@
 ## 🏆 Achievements
 - 🥇 Distinction in IBM React V2 (95%)
 - 🥇 Distinction in IBM Python for Data Science & AI (95.25%)
+- ✅ Completed IBM Python Project for AI & App Development (2025)
 - 🌍 Licensed Tour Guide – Ministry of Tourism, Israel
 
 ---
